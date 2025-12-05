@@ -1,0 +1,55 @@
+# Maven
+target/
+*.jar
+*.war
+*.ear
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# IDE - VS Code
+.vscode/
+*.code-workspace
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# IDE - IntelliJ
+out/
+
+# IDE - Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+.gradle/
+build/
+*.class
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Dependencies
+.m2/
+node_modules/
+
+# Environment
+.env
+.env.local
+*.properties
+project_plan.md
